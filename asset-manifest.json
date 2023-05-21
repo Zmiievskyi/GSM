@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GSM/static/css/main.aa0e1283.css",
+    "main.js": "/GSM/static/js/main.31e8f8c6.js",
+    "static/css/433.48591215.chunk.css": "/GSM/static/css/433.48591215.chunk.css",
+    "static/js/433.85d98b71.chunk.js": "/GSM/static/js/433.85d98b71.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GSM/static/js/787.28cb0dcd.chunk.js",
+    "static/media/user_foto.png": "/GSM/static/media/user_foto.70d41f915c98db416f75.png",
+    "static/media/card.png": "/GSM/static/media/card.032662a2a907475127d7.png",
+    "static/media/logo.svg": "/GSM/static/media/logo.3936f7ee9260c7dcae36c6da3da4f2a8.svg",
+    "static/media/ellipse.svg": "/GSM/static/media/ellipse.3d6d9554d43627f2e2a2.svg",
+    "index.html": "/GSM/index.html",
+    "main.aa0e1283.css.map": "/GSM/static/css/main.aa0e1283.css.map",
+    "main.31e8f8c6.js.map": "/GSM/static/js/main.31e8f8c6.js.map",
+    "433.48591215.chunk.css.map": "/GSM/static/css/433.48591215.chunk.css.map",
+    "433.85d98b71.chunk.js.map": "/GSM/static/js/433.85d98b71.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GSM/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0e1283.css",
+    "static/js/main.31e8f8c6.js"
+  ]
+}
