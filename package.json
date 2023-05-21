@@ -25,7 +25,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d public",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
