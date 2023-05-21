@@ -21,33 +21,30 @@ export const Header = () => {
             <Link 
             className="nav-link" 
             to="/" 
-            // onClick={onFilter}
             >
               Show all
             </Link>
             <Link 
             className="nav-link" 
             to="/followings" 
-            // onClick={onFilter}
             >
               Followings
             </Link>
             <Link
               className="nav-link"
               to="/follow"
-              // onClick={onFilter}
             >
               Follow
             </Link>
           </Nav>
-          <Nav>
+          {/* <Nav>
             <Link className="nav-link" to="/login">
               Login
             </Link>
             <Link className="nav-link" to="/logout">
               Logout
             </Link>
-          </Nav>
+          </Nav> */}
         </Navbar.Collapse>
       </Container>
     </Navbar>
